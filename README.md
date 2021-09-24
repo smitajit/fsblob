@@ -1,4 +1,4 @@
-# fsblob [![Go Report Card](https://goreportcard.com/badge/github.com/smitajit/blob)](https://goreportcard.com/report/github.com/smitajit/blob) [![Go Reference](https://pkg.go.dev/badge/github.com/smitajit/blob.svg)](https://pkg.go.dev/github.com/smitajit/blob)
+# fsblob [![Go Report Card](https://goreportcard.com/badge/github.com/smitajit/fsblob)](https://goreportcard.com/report/github.com/smitajit/fsblob)[![Go Reference](https://pkg.go.dev/badge/github.com/smitajit/fsblob.svg)](https://pkg.go.dev/github.com/smitajit/fsblob)
 File System based blob store with encryption,metadata and integrity check support
 
 ## Features
